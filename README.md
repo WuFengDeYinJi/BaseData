@@ -1,6 +1,6 @@
 # BaseData
-本应用是iOS开发的底层模板，拥有OC版本和swift版本
-BaseToolClass为swift版本，BaseToolSystem为OC版本
+本应用是iOS开发的底层模板,拥有OC版本和swift版本
+BaseToolClass为swift版本,BaseToolSystem为OC版本,newDemo为2024年12月最新OC模板
 项目包含的主要代码结构为MVC
 项目主要文件类型说明：
 AppDelegate(代理)：这个文件夹主要是放置项目自动生成的代理文件，也就是项目运行的启动项。
