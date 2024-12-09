@@ -1,0 +1,21 @@
+platform :ios, '9.0'
+
+target 'newDemo' do
+
+pod 'AFNetworking'
+
+pod 'MBProgressHUD'
+
+pod 'TZImagePickerController'
+
+pod 'JSONModel'
+
+pod 'SDWebImage'
+
+pod 'MJRefresh'
+
+pod 'Masonry'
+
+pod 'IQKeyboardManager'
+
+end
